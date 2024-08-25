@@ -2,3 +2,7 @@ baseURL = 'http://hiancemathbooks.com/'
 languageCode = 'en-us'
 title = 'Math Books for the Digital Age'
 theme = 'relearn'
+
+[params]
+
+collapsibleMenu = true

@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hiancemathbooks.com/categories/index.html</loc>
+    <loc>http://hiancemathbooks.com/logic/index.html</loc>
+  </url>
+  <url>
+    <loc>http://hiancemathbooks.com/set-theory/subsets-and-supersets/index.html</loc>
+    <lastmod>2024-08-25T15:15:25+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://hiancemathbooks.com/arguments-and-proof/index.html</loc>
+  </url>
+  <url>
+    <loc>http://hiancemathbooks.com/set-theory/index.html</loc>
+    <lastmod>2024-08-25T15:15:25+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://hiancemathbooks.com/relations-and-functions/index.html</loc>
+  </url>
+  <url>
+    <loc>http://hiancemathbooks.com/set-theory/powersets/index.html</loc>
+    <lastmod>2024-08-25T01:26:29+00:00</lastmod>
   </url>
   <url>
     <loc>http://hiancemathbooks.com/index.html</loc>
+    <lastmod>2024-08-25T15:15:25+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://hiancemathbooks.com/categories/index.html</loc>
   </url>
   <url>
     <loc>http://hiancemathbooks.com/tags/index.html</loc>

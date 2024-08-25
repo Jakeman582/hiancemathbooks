@@ -6,6 +6,35 @@
     <description>Hiance Math Books are collections of notes meticulously compiled and lovingly crafted for the sole purpose of allowing me to teach what I learn.&#xA;I yearn to learn as much math as I can, and in the process am reviewing everything I learned in college. As I review, I write notes, and I want to share what I learn with everyone! The following chart shows my current plans, and the optimum path for anyone wanting to learn college level mathematics.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 15:15:25 +0000</lastBuildDate>
     <atom:link href="http://hiancemathbooks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logic</title>
+      <link>http://hiancemathbooks.com/logic/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hiancemathbooks.com/logic/index.html</guid>
+      <description>Content is being rewritten for this site. Please see this page for more information.</description>
+    </item>
+    <item>
+      <title>Arguments and Proof</title>
+      <link>http://hiancemathbooks.com/arguments-and-proof/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hiancemathbooks.com/arguments-and-proof/index.html</guid>
+      <description>Content is being rewritten for this site. Please see this page for more information.</description>
+    </item>
+    <item>
+      <title>Set Theory</title>
+      <link>http://hiancemathbooks.com/set-theory/index.html</link>
+      <pubDate>Sun, 25 Aug 2024 15:15:25 +0000</pubDate>
+      <guid>http://hiancemathbooks.com/set-theory/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Relations and Functions</title>
+      <link>http://hiancemathbooks.com/relations-and-functions/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://hiancemathbooks.com/relations-and-functions/index.html</guid>
+      <description>Content is being rewritten for this site. Please see this page for more information.</description>
+    </item>
   </channel>
 </rss>

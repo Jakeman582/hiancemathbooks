@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subsets and Supersets :: Math Books for the Digital Age</title>
+    <link>http://hiancemathbooks.com/set-theory/subsets-and-supersets/index.html</link>
+    <description>Sets can contain wide varieties of objects. They can contain objects that most people interact with on a daily basis. They can consist of automotive parts that can be used to service a 1967 Camaro, tools used to carve statues out of wood, or art supplies needed to paint a picture. Likewise, they can contain a wide variety of mathematical objects like numbers, shapes, or axioms.&#xA;Sometimes, we may only care about some of the objects in a set.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://hiancemathbooks.com/set-theory/subsets-and-supersets/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

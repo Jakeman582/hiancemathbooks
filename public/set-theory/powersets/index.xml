@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Powersets :: Math Books for the Digital Age</title>
+    <link>http://hiancemathbooks.com/set-theory/powersets/index.html</link>
+    <description>Often, we find ourselves wanting to pick out certain subsets from a given set. Of course, we can choose to include some items and omit others, yielding a wide variety of possible subsets to choose from. It is common to consider the set of all such possibilities.&#xA;Definition of a Powerset As stated in the introduction to this section, whenever we want to pick certain subsets of elements from a given set, we commonly collect all possible subsets into one encompassing set.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://hiancemathbooks.com/set-theory/powersets/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
