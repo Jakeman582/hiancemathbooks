@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiance Math Books :: Math Books for the Digital Age</title>
+    <link>http://hiancemathbooks.com/index.html</link>
+    <description>Hiance Math Books are collections of notes meticulously compiled and lovingly crafted for the sole purpose of allowing me to teach what I learn.&#xA;I yearn to learn as much math as I can, and in the process am reviewing everything I learned in college. As I review, I write notes, and I want to share what I learn with everyone! The following chart shows my current plans, and the optimum path for anyone wanting to learn college level mathematics.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://hiancemathbooks.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
